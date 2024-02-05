@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Verdana, sans-serif;
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #FFFFFF;
     margin: 20px 20px 0 20px;
 }
 
@@ -46,6 +46,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid;
     border-left: 5px solid;
+    border-top: 0;
+    border-right: 0;
 }
 
 .blue {
@@ -54,6 +56,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid;
     border-top: 2px solid;
+    border-bottom: 0;
+    border-left: 0;
     color: #C4C4C4;
 }
 
@@ -67,6 +71,8 @@ div {
     margin-left: 50px;
     border-bottom: 2px solid;
     border-left: 5px solid;
+    border-top: 0;
+    border-right: 0;
     color: #707070;
 }
 
@@ -76,6 +82,8 @@ div {
     margin-right: 50px;
     border-right: 5px solid;
     border-top: 2px solid;
+    border-bottom: 0;
+    border-left: 0;
 }
 
 footer {
